@@ -1,20 +1,30 @@
-# Ait Zaouit Causal Scaling: Periodic Stability in IBM Heron
+# 🌌 Ait Zaouit Causal Scaling: Proprietary Stability Logic
+**Project:** Experimental validation of the Ait Zaouit Law of Emergent Causality on IBM Heron (133-qubit).
 
-## 🌌 Overview
-This repository documents the experimental validation of the **Ait Zaouit Law of Emergent Causality** on state-of-the-art quantum hardware. Our research identifies a previously undocumented physical phenomenon: **Periodic Stability Resonances** in large-scale (133-qubit) quantum systems.
+---
 
-## 🔬 Key Discoveries
-* **Periodic Resonance:** We observed that quantum noise in IBM Heron processors (`torino`, `marrakesh`, `fez`) is not purely stochastic but follows a cyclic stability pattern every 10 depth levels.
-* **Predictive Stabilization:** Using a causal windowing algorithm, we achieved a **50% reduction** in measurement variance at resonance depths.
-* **The 0.0974 Milestone:** Record-low standard deviation achieved on a 133-qubit system at Depth=6.
+## 🔬 Overview & Key Discoveries
+This repository documents the identification of a previously undocumented physical phenomenon: **Non-Linear Stability Resonances** in large-scale quantum systems. 
 
-## 📊 Scientific Integrity (The Blind Test)
-This project includes a **Blind Prediction Benchmark**. While the algorithm stabilizes systemic noise, it respects the fundamental stochastic nature of quantum mechanics (Correlation Score: ~0.0007), proving that we are stabilizing the **Causal Grid**, not fabricating quantum outcomes.
+### Core Innovations:
+* **Systemic Resonance Identification:** Our research proves that quantum noise in high-end processors (`ibm_torino`, `ibm_marrakesh`, `ibm_fez`) exhibits predictable causal patterns rather than purely stochastic behavior.
+* **Causal Windowing Algorithm:** By applying the **Ait Zaouit Law**, we achieved a **50% reduction** in measurement variance at specific strategic depths.
+* **0.0974 Precision Milestone:** Record-low standard deviation achieved on a 133-qubit system, validating the scalability of the protocol.
 
-## 📂 Repository Content
-* `periodic_resonance_test.py`: Scripts for multi-backend benchmarking.
-* `blind_prediction_benchmark.py`: Integrity and correlation tests.
-* `data/`: Raw logs and visualization from IBM Quantum runs (Jan 2026).
+## 📊 Scientific Integrity (Blind Test)
+The project utilizes a **Blind Prediction Benchmark** to ensure the algorithm stabilizes the **Causal Grid** without interfering with the fundamental stochastic outcomes of quantum mechanics. (Correlation Score: ~0.0007).
 
-## 🎓 Citation & Intellectual Property
-The **Ait Zaouit Law** is an independent research project. If you use this code or these findings in your research, please cite the Zenodo DOI provided in the repository.
+## 📂 Protected Repository Structure
+* `stability_benchmarking.py`: Advanced multi-backend execution scripts.
+* `integrity_correlation_tests.py`: Statistical validation tools.
+* `data/`: High-fidelity logs and visualizations from IBM Quantum (January 2026).
+
+## ⚖️ Intellectual Property & Usage
+The **Ait Zaouit Law** and the associated **Causal Scaling Logic** are the exclusive intellectual property of the author. 
+
+1. **Status:** Proprietary Research - All Rights Reserved.
+2. **Access:** The specific "Resonance Frequencies" and "Temporal Windows" used for stabilization are **withheld** for licensing and protected academic publication.
+3. **Inquiries:** For access to the full causal scaling engine or collaborative research, please contact the author.
+
+---
+*“Success is a gift from the Creator, harnessed through disciplined independent science.”*
